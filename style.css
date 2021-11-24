@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: url('Ship.jpg');
+  background-image: url('Ship.webp');
   height: 100vh;
   display: flex;
   flex-direction: column;
